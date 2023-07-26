@@ -1,0 +1,50 @@
+.color-box {
+    height: 100px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+  }
+  #color-palette{
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  .color-code {
+    margin: 0;
+    font-size: 14px;
+  }
+
+  .navbar{
+    position: fixed;
+    width: 100vw;
+    background:#ffff;
+    justify-content: center;
+    
+  }
+  
+  h1{
+    font-weight: bolder;
+    color: #5e70a06c;
+  }
+ 
+.main{
+  height: 100vh;
+  width: 100%;
+  background-color: #5e70a06c;
+}
+
+.color{
+  background-color: #3D5C00;
+}
+
+
+
+/* Color Pallete */
+
+
+#color-palette {
+  display: flex;
+  flex-wrap: wrap;
+}
